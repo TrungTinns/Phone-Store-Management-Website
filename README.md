@@ -11,8 +11,6 @@ This project is a comprehensive web application for managing a phone store, deve
 - Nguyen Chanh Tin - 520H0587
 - Nguyen Trung Tin - 520H0589
 
-Project Supervisor: Dr. Nguyen Vinh Kha
-
 ## Project Objectives
 
 1. Develop a fully functional e-commerce website for a phone store
@@ -128,19 +126,4 @@ We welcome contributions to improve the project. Please follow these steps:
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-## Acknowledgements
 
-- Dr. Nguyen Vinh Kha for project supervision and guidance
-- Ton Duc Thang University for providing the educational framework
-- All open-source libraries and frameworks used in this project
-
-## Contact
-
-For any inquiries or support, please contact the team members:
-
-- Mai The Gia Bao - bao.mai@student.tdtu.edu.vn
-- Huynh Van De - de.huynh@student.tdtu.edu.vn
-- Nguyen Chanh Tin - tin.nguyen@student.tdtu.edu.vn
-- Nguyen Trung Tin - tin.nguyentrung@student.tdtu.edu.vn
-
-Project Link: https://github.com/your-username/phone-store-management
