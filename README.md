@@ -21,6 +21,8 @@ This project is a comprehensive web application for managing a phone store, deve
 6. Ensure responsive design for various devices and screen sizes
 
 ## Technologies Used
+![image](https://github.com/TrungTinns/Phone-Store-Management-Website/assets/94519308/040e22b4-1e84-4f40-a1a2-32fbe5cc2189)
+![image](https://github.com/TrungTinns/Phone-Store-Management-Website/assets/94519308/8e97164d-3439-495e-a7b4-39bcded5f383)
 
 ### Frontend
 - HTML5
@@ -45,6 +47,12 @@ This project is a comprehensive web application for managing a phone store, deve
 - Jest for frontend testing
 
 ## Key Features
+![image](https://github.com/TrungTinns/Phone-Store-Management-Website/assets/94519308/3dc7e14c-5e64-44d5-ab72-207b9ce81de3)
+![image](https://github.com/TrungTinns/Phone-Store-Management-Website/assets/94519308/5235b5a8-5015-4bf9-9186-c0e1dd07dc3d)
+![image](https://github.com/TrungTinns/Phone-Store-Management-Website/assets/94519308/017465f0-c943-4453-b29e-ea43f970b0bf)
+![image](https://github.com/TrungTinns/Phone-Store-Management-Website/assets/94519308/eaff2e2c-8384-4d5a-aefc-85d39e1b7599)
+![image](https://github.com/TrungTinns/Phone-Store-Management-Website/assets/94519308/08a12d9d-dfd1-40e9-a9c9-a4b7d59b5507)
+![image](https://github.com/TrungTinns/Phone-Store-Management-Website/assets/94519308/b7eda4ee-e88e-4ed1-b630-d76b75e1d6d5)
 
 ### For Customers
 1. Product browsing with advanced filtering and search capabilities
